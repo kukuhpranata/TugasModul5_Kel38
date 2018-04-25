@@ -31,7 +31,7 @@ public class TugasModul5_Kel38 {
        System.out.println("1. Penjumlahan (+)");
        System.out.println("2. Pengurangan (-)");
        System.out.println("3. Perkalian (x)");
-       System.out.println("4. Pembagian (/)");
+       System.out.println("4. Pembagian (/)");//apa itu pembagian?
        System.out.print("Silahkan masukkan nomernya (1-4): ");
        materi = input.nextInt();
        switch (materi){
